@@ -154,13 +154,9 @@
 La iniciativa surge cuando el profesor Starling Germosen Reynoso de la Universidad Dominicana O&M en Republica Dominicana les otorgo la oportunidad a nuestros fundadores Pablo A. Gonzalez Mendoza y Jaileen Sthefany Gonzalez de poder realizar una aplicación web desde ese momento les surge la necesidad de poder desarrollarse en esta área y poder brindar este servicio a personas que tienen esta necesidad.
 Atraídos por el aprendizaje y  la investigación nuestros fundadores aplican sus conocimientos en la creación y el manejo de dispositivos interactivos que juntan las ramas de la ingeniera y el diseño, decide crear una empresa que brinde servicios digitales y de desarrollo de páginas web profesionales a precios accesibles pero de gran calidad y  que puedan satisfacer las necesidades específicas de los clientes de forma personalizada.
  Otro de los objetivos establecido desde los inicios, fue brindar oportunidades de empleo a profesionales que se desenvuelven en esta área, es decir personas que trabajen de forma autónoma en proyectos determinados, ofreciéndoles la ventaja de poder hacerlo desde su casa.</p>
-                    </div>
-                    <div 
+                
                         
-                        
-                    </div>
-                </div>
-            </div>
+     </div>
         </section>
     </main>
     <footer>
@@ -181,7 +177,7 @@ Atraídos por el aprendizaje y  la investigación nuestros fundadores aplican su
                 <h4>Location</h4>
                 <p>Av Máximo Gómez 182, Santo Domingo</p>
             </div>
-        </div>
+  </div>
         <h2 class="titulo-final">&copy; Pablo Gonz. | Jaileen Gonz.</h2>
     </footer>
 </body>
